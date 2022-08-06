@@ -11,8 +11,8 @@ using namespace std;
 
 int main() {
 //    
-//     Account frank{"Frank", 5000};         // abstract
-//     cout << frank << endl;
+//     Account dex{"Dexter", 5000};         // abstract
+//     cout << dex << endl;
 
     Checking_Account neo {"Neo", 5000};     // matrix?
     cout << neo << endl;
